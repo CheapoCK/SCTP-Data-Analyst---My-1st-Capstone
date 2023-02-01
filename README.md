@@ -22,3 +22,6 @@ An analysis of Singapore weather dataset for in year 2022, focusing on the Rainf
 ### Future Improvements v2.0 (*Coming soon* ... ...)
 - To add Y2021 and Y2020 dataset.
 - To add Wind charts into the Dashboard for analyse.
+
+
+Click [here](https://www.linkedin.com/in/chee-keong-ng-5a5920117/) for my Linkedin page 
