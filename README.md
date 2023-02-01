@@ -1,6 +1,6 @@
 # My first capstone
 
-### An analysis of Singapore rainfall and temperature in Y2022
+### An analysis of Singapore rainfall and temperature in the Year 2022
 
 ![](https://i.imgur.com/KXA8TeP.jpg)
 
@@ -10,7 +10,7 @@ An analysis of Singapore weather dataset for in year 2022, focusing on the Rainf
 - The **highest rainfall** was in *October*.
 - The **lowest rainfall** was in *January*.
 - Top 3 stations with **highest rainfall** were *Admiralty*, *Ang Mo Kio* and *Clementi*. 
-- *East Coast Parkway* station has **lowest rainfall**.
+- *East Coast Parkway* station has the **lowest rainfall**.
 - The **highest temperature recorded** was **36.8°C**, at *Admiralty* station.
 
 ### What are the changes
@@ -21,7 +21,7 @@ An analysis of Singapore weather dataset for in year 2022, focusing on the Rainf
 
 ### Future Improvements v2.0 (*Coming soon* ... ...)
 - To add Y2021 and Y2020 dataset.
-- To add Wind charts into the Dashboard for analyse.
+- To add Wind charts into the Dashboard for analysis.
 
 
 Click [here](https://www.linkedin.com/in/chee-keong-ng-5a5920117/) for my Linkedin page 
