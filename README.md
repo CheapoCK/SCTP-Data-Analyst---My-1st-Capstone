@@ -9,7 +9,7 @@ An analysis of Singapore weather dataset for in year 2022, focusing on the Rainf
 ### What have I learned from this analysis?
 - The **highest rainfall** was in *October*.
 - The **lowest rainfall** was in *January*.
-- Top 3 stations with **highest rainfall** were *Admiralty*, *Ang Mo Kio* and *Clementi*. 
+- Top 3 **stations with highest rainfall** were *Admiralty*, *Ang Mo Kio* and *Clementi*. 
 - *East Coast Parkway* station has the **lowest rainfall**.
 - The **highest temperature recorded** was **36.8°C**, at *Admiralty* station.
 
