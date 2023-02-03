@@ -5,7 +5,7 @@
 
 ![](https://i.imgur.com/JFT3fJZ.jpeg)
 
-An analysis of Singapore weather dataset for in year 2022, focusing on the Rainfall and Air Temperature data. The dashboard provides a visual and interactive platform for exploring patterns and trends in the data, helping user to gain insights into the rainfall and temperature patterns in Singapore. The dashboard was created using Microsoft Excel software and features user-friendly interface that allows user to access and interact with the data in an intuitive manner. The dashboard provides a valuable tool for data analysis, enabling user to make informed decisions based on the data.
+An analysis of Singapore weather dataset for year 2022, focusing on the Rainfall and Air Temperature data. The dashboard provides a visual and interactive platform for exploring patterns and trends in the data, helping user to gain insights into the rainfall and temperature patterns in Singapore. The dashboard was created using Microsoft Excel software and features user-friendly interface that allows user to access and interact with the data in an intuitive manner. The dashboard provides a valuable tool for data analysis, enabling user to make informed decisions based on the data.
 
 
 ### What have I learned from this analysis?
@@ -35,7 +35,7 @@ I can make the following recommendations:
 
 ### Future Improvements v2.0 (*Coming soon* ... ...)
 ---------------------------------------------------
-- To add Y2021 and Y2020 dataset.
+- To add Y2020 and Y2021 dataset.
 - To add Wind charts into the Dashboard for analysis.
 
 
