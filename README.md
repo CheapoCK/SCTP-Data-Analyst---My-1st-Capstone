@@ -33,7 +33,7 @@ I can make the following recommendations:
 - advise BCA to increase incentives to building owners in these areas to expedite getting their buildings to become Green Mark Certification.
 
 
-### Future Upgrades/Improvements (v2.0 *Coming soon*)
+### Future upgrades/improvements (v2.0 *coming soon*)
 ---------------------------------------------------
 - To add Y2020 and Y2021 dataset.
 - To add Wind charts into the Dashboard for analysis.
