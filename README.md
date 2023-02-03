@@ -18,6 +18,10 @@ An analysis of Singapore weather dataset for in year 2022, focusing on the Rainf
 - Using Pivot Table to create Pivot Charts.
 - Adding Slicer to filter Pivot Table, visualize the same data with different criteria.
 
+## My insights based on the data/charts
+I can make the following recommendations:
+- High fall rain months: advise PUB to increase the inspection of the major drains for any obstruction to prevent unnecessary flooding.
+- High average maximum temperature: advise NParks to plant more flora in Marina Barrage and Paya Lebar areas and BCA to increase incentives to building owners in these areas to expedite their buildings to become Green buildings.
 
 ### Future Improvements v2.0 (*Coming soon* ... ...)
 - To add Y2021 and Y2020 dataset.
